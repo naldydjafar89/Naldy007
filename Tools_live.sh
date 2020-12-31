@@ -106,11 +106,11 @@ echo
 
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
-echo $i  "AUTHOR   : DICKY FEBRIAN"
+echo $i  "AUTHOR   : Naldy007 | Hanafi240
 
-echo $i  "WA       : 085707706430"
+echo $i  "Team       : Hutabohu Exploit Team
 
-echo $i  "YOUTUBE  : DICKY GT"
+echo $i  "YOUTUBE  : None
 
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 
